@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"esc"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/css/estilo.css",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_Anabella/contato.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_Anabella/estilo.css",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_Anabella/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/eletronicos.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/informatica.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/jogos.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_TecBlog/celulares.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto_Anabella/biografia.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/internal_style.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/caractere_especial.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/Ferrari.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/formularios.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/formularios2.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/tabelas.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/tabelas2.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/classes-ids.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/fontes-cores.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/bordas.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/div-span2.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/div_span.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Aprendendo_CSS/inline_style.html",
+		"/C/Users/Unesp/Desktop/Curso Web/ProjetoFinal_HTML/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/ProjetoFinal_HTML/contato.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/contato.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/ProjetoFinal.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/imagens/ferrari.jpg",
+		"/C/Users/Unesp/Desktop/Curso Web/Primeiro Projeto/projeto.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Desafio 1/desafio.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Imagem/imagens/contato.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto Web/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto Aula/estilos/estilo-teste.css",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto Aula/index.html",
+		"/C/Users/Unesp/Desktop/Curso Web/Projeto Aula/css/estilo-teste.css"
+	],
+	"find":
+	{
+		"height": 51.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
